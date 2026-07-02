@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/../../src",
                 "${workspaceFolder}/../../src/external",
-                "C:/GitHub/raylib/src"
+                "C:/raylib/raylib/src"
             ],
             "defines": [
                 "_DEBUG",
